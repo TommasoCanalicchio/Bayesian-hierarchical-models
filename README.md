@@ -59,7 +59,7 @@ Y_{i,j} | β_j, σ²  ~ N(β_j^T x_{i,j}, σ²)
 
 | File | Description |
 |---|---|
-| `FInal_project_script.ipynb` | Main Jupyter notebook with both Gibbs Sampler implementations, diagnostics, and plots |
+| `Final_project_script.ipynb` | Main Jupyter notebook with both Gibbs Sampler implementations, diagnostics, and plots |
 | `Scores_without_covariates` | Dataset for Model 1 (space-separated) |
 | `Scores_with_covariates` | Dataset for Model 2 (space-separated) |
 
